@@ -1,16 +1,21 @@
 # homecook
+<br><br>
+KELOMPOK : * DEE’MAS A. KHOIRI RAHMANDANI (HACKER / SISTEM)
+•	ROSSY P (HIPSTER / DESAIN)
+•	MIRZA TAHTA AULIA (HIPSTER / DESAIN)
+•	SYAIFUL IKHWAN (HUSTLER / KETUA)
 
-A new Flutter project.
+Nama Aplikasi : Homecook Mobile
+Deskripsi : Seperti gofood, namun memasak sendiri, pilih koki/tukang masak sendiri sekitar;
 
-## Getting Started
+*Pilih pemasak sekitar yg tersedia
+*setiap pemasak mempunyai menu masakan rumah tersendiri
+*bisa delivery
 
-This project is a starting point for a Flutter application.
+Segmem pemasak : ibu rumah tangga/mantan koki/orang yg bisa memasak;
+Segmen konsumen : orang orang yg ingin merasakan masakan seperti dirumah/kampung halaman, namun terkendala tidak ada waktu, tidak bisa memasak;
 
-A few resources to get you started if this is your first Flutter project:
+*Rider merger ke gofood/gojek;
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Tujuan : diharapkan, para personal bisa mandiri memulai usaha dibidang kuliner;
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
